@@ -2,7 +2,11 @@
 
 **Trustworthy AI · Research pipeline · Source-code release**
 
-This project provides the author's existing analysis implementation for clinical prediction uncertainty and identification. Scientific source files are preserved from the local research product. This upload organizes code and documentation; it does not represent new experiments, model retraining or an independently verified reproduction.
+Sometimes the hardest part of prediction is knowing what the evidence leaves unresolved. I built this computational companion to explore how selection, imperfect recording and limited auditing affect the conclusions we can draw.
+
+The repository contains exact calculations and explicitly synthetic simulations, including bounded correction and equal-budget audit examples. Their assumptions and chronology matter: these are mathematical and simulation exercises, not patient studies or evidence that a clinical strategy works.
+
+This repository preserves the saved scientific implementation, with its original execution notes and a source-specific pipeline guide.
 
 ## Pipeline
 
