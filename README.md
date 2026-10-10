@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/project-cover.png" width="100%" alt="Conceptual scientific artwork for Uncertainty · What evidence can identify" /></p>
+
 # Clinical prediction uncertainty and identification
 
 **Trustworthy AI · Research pipeline · Source-code release**
