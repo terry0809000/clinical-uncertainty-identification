@@ -1,0 +1,6 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "protocol_sha256": "b9ade12775a83ecbd149c8ad4a2ac8d88035bb84517e950d547c990bd28900f4"
+}

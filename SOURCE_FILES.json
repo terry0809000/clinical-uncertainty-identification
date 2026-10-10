@@ -1,0 +1,178 @@
+[
+  {
+    "path": "docs/original/README.md",
+    "sha256": "524aadbb25b4297b0ede60da6efd42c9486a953697c5c0122bd2b62713ec2b7c"
+  },
+  {
+    "path": "requirements_extensions.txt",
+    "sha256": "38cced22d52e2cbb45c5a7a832e2c71e1869dfb02a9ddbc3e8ea8243355affaf"
+  },
+  {
+    "path": "requirements_revision.txt",
+    "sha256": "0290191bc8c5eb44c1b5c171c0557f4d27662aa467762864f84f4fd37e2f1b8b"
+  },
+  {
+    "path": "extensions/bounded_correction/audit_bounded_correction.py",
+    "sha256": "c1e66ef285c344e151b5569a704bae1857904b7d20e42124d687f069c1e6beea"
+  },
+  {
+    "path": "extensions/bounded_correction/PROTOCOL.md",
+    "sha256": "9e734121754bdaeccf2b67de18a8e71f9fd64530bf59c39ee52b8a40b39aaffd"
+  },
+  {
+    "path": "docs/original/extensions/bounded_correction/README.md",
+    "sha256": "1aa8525688d095d238beedfa015d0b2f6f9a6c74d66f00c9f1edda7098b0ea38"
+  },
+  {
+    "path": "extensions/bounded_correction/run_bounded_correction.py",
+    "sha256": "3e7425be9f4d08d8cec72a4734e256149762d32a14a674846c980ce0cd0a629d"
+  },
+  {
+    "path": "extensions/group_channels/group_channels.py",
+    "sha256": "cb545719a39484929fbb733bb3e328aaf274d0f04904632debe70b1ca54048a7"
+  },
+  {
+    "path": "figures/build_figure5_and_exports.py",
+    "sha256": "8994dd5edcd4dc29e0af78987fd670fae72d219ea2977e47f287a6feadc1d17b"
+  },
+  {
+    "path": "figures/figure1_evidence_design.py",
+    "sha256": "11c42a4d19aeafcccf4dc6dd52c1a49516d056affe0395ad55eb65d116037861"
+  },
+  {
+    "path": "figures/figure2_identification.py",
+    "sha256": "148037ca381591cca4e3cf2d72503ee17a6d382204bc4da4e1356c97cca2c240"
+  },
+  {
+    "path": "figures/figure3_simulation.py",
+    "sha256": "42a14d3884cdf9e7af6fda8976e192fad0493254fd8dfb99a41d6e997c0ab6c7"
+  },
+  {
+    "path": "figures/figure4_stress_test.py",
+    "sha256": "f7dea4de7335ff75436449dc4cda6c5a514f72b7433f3b06e7810b94384bd238"
+  },
+  {
+    "path": "figures/figureS1_sensitivity_surface.py",
+    "sha256": "d18faee7e5b0dbf2ae897eb45723feff83698ce532c4f1022b2a8accb14f7b59"
+  },
+  {
+    "path": "figures/figureS2_threshold_criterion.py",
+    "sha256": "d46831ec2157d6559116dfd80760ecc58f39a04d6e0e530fe234c1f6eeea2a9f"
+  },
+  {
+    "path": "docs/original/legacy/README.txt",
+    "sha256": "83a2c4ed77b32d0833763575b3e6e185447b72ae9cbb12cfb1fa8465393163df"
+  },
+  {
+    "path": "legacy/requirements.txt",
+    "sha256": "a354d3b2cd2fbb238b20b008eabe1ed12fce91cc3b6dfb3404deb0289de4a419"
+  },
+  {
+    "path": "legacy/analytic/audit_surface_v5_independent.py",
+    "sha256": "f9b7a017c0ea10990324ac19a939c4b3ef8470520df0ec8439b20fc4f14faf10"
+  },
+  {
+    "path": "legacy/analytic/check_exact.py",
+    "sha256": "0dbac7ece2cd5041707a99ba3ab5bc65581afc56120a39332a47ad802e56baa2"
+  },
+  {
+    "path": "legacy/analytic/check_threshold_corollary.py",
+    "sha256": "75eeb2e6a15200479487fde22f5072afe0f3910e3038d54f9d18efa21770c09c"
+  },
+  {
+    "path": "legacy/analytic/run_sensitivity_surface_v5.py",
+    "sha256": "92a2c48522c8063303787f5060bf81dbb39e055b7947f386ebd785b4b30a70c3"
+  },
+  {
+    "path": "legacy/figures/figure1_design.py",
+    "sha256": "1d35318f2e9a8c28e2eb66954403bc06d8137a51e3033571ebe8a33b2174f251"
+  },
+  {
+    "path": "legacy/figures/figure2_identification.py",
+    "sha256": "dc669a045f2d02345a4d32730a198f1aa0063ba341b958a91ddbfbf99bc27254"
+  },
+  {
+    "path": "legacy/figures/figure3_simulation.py",
+    "sha256": "4fcfcea52b3eeffde974d5238ffe54df5ce5ab9c1b4d84487de124f2d3ca5845"
+  },
+  {
+    "path": "legacy/figures/figure4_stress_test.py",
+    "sha256": "d28cc43676b3da8b6a6cfe76d8a1b0c6b8ce5953b6b44953c2e364e4e39eb5d0"
+  },
+  {
+    "path": "legacy/figures/figureS1_sensitivity_surface.py",
+    "sha256": "e89ead18e41e155b369e1ff80eda15f5eb300bfbc732e366f5807d17f2129cc8"
+  },
+  {
+    "path": "legacy/figures/figureS2_threshold_criterion.py",
+    "sha256": "5da02e9345d9b53ecd80477b1c5687a90b33ce9320e7fb613767a9bf1d784f41"
+  },
+  {
+    "path": "legacy/simulation/audit_design_correction_independent.py",
+    "sha256": "420ec85c2fc6a0ff0cbc3fc2eaa27f09949455c97df2ebed7db323ce8f444440"
+  },
+  {
+    "path": "legacy/simulation/audit_v3_independent.py",
+    "sha256": "d306f1ae6443dda5230b749c3fef7705e871347428a4ee04fcb850f5d1fe4573"
+  },
+  {
+    "path": "legacy/simulation/audit_v4_independent.py",
+    "sha256": "ab675bb27da633ad97057c37565eb443c8445b0345308eb14b7df9e0ca27621a"
+  },
+  {
+    "path": "legacy/simulation/run_design_correction_v1.py",
+    "sha256": "c21fa9e1859905886eeb6c5f0c5801da0b2e529ba107033137cb4406ffc8810b"
+  },
+  {
+    "path": "legacy/simulation/run_study.py",
+    "sha256": "e926e4dad0028b4ff4e6019096e197ce4a17c94124e02c6d9c68b218911a2393"
+  },
+  {
+    "path": "legacy/simulation/run_supplement_v2.py",
+    "sha256": "509860d874a28262c7b1d57a79845b8ff053572d119ce3b280a468abed104376"
+  },
+  {
+    "path": "legacy/simulation/run_supplement_v3.py",
+    "sha256": "7b2b0496784018f1527f79ab8eca8022da6304972bcdf1e48a9703450628dfd6"
+  },
+  {
+    "path": "legacy/simulation/run_supplement_v4.py",
+    "sha256": "dd969a8be518d0deb748a6906a7ae54785ec36c0ac47d7cc89f82048ce4e945a"
+  },
+  {
+    "path": "provenance/october_execution_source/build_figures.py",
+    "sha256": "34109d02afdeb98e20151bbc86de55bad0c287bbb5aa34f54c42476729a41e69"
+  },
+  {
+    "path": "provenance/october_execution_source/independent_extension_audit.py",
+    "sha256": "de8adeeaf7615e715f9fafe87031d4a7f1119927a7951d5b15a09d20cb7cb896"
+  },
+  {
+    "path": "provenance/october_execution_source/run_extensions.py",
+    "sha256": "d75167f18a4fa506967a9427125de98aeef53349a48594c198645a7acbc54f73"
+  },
+  {
+    "path": "provenance/original_execution_source/run_bounded_correction.py",
+    "sha256": "8424f0de42f1e83f4892eaf21e79f0e0cd6a666043b8c7ac607c1a1f88ddfc6f"
+  },
+  {
+    "path": "revision_20261010/experiments/environment.json",
+    "sha256": "e3814eb25c77e154d7360673b5ab43bbebd8ef91a2a8efaa1eee4175113d0b8f"
+  },
+  {
+    "path": "revision_20261010/experiments/PROTOCOL.md",
+    "sha256": "0c18bdf99a911f915419a3277736346262d1efe84dd3ae0892e24b6247bb646b"
+  },
+  {
+    "path": "revision_20261010/experiments/run_extensions.py",
+    "sha256": "85cec5ff97d45399057c4f2a6c1e1e25ff26a777695ecae8de94cf0e81dc9b1f"
+  },
+  {
+    "path": "revision_20261010/figures/build_figures.py",
+    "sha256": "4a2028906e14982cd68bdff35dc3bfe884d1478e48632a9b3d05f4a1e6addb7a"
+  },
+  {
+    "path": "revision_20261010/verification/independent_extension_audit.py",
+    "sha256": "9f66d6feef825b5459907ce08309ed5e23305f35722b9070ff799707ff496faa"
+  }
+]
